@@ -29,7 +29,7 @@ An intelligent irrigation system using ESP8266 and Firebase Realtime Database. T
 
 ## Schematic Diagram
 
-(Include a schematic diagram image here)
+(schematic diagram image here)
 
 ## Installation
 
@@ -43,6 +43,7 @@ An intelligent irrigation system using ESP8266 and Firebase Realtime Database. T
     - FirebaseESP8266
     - Servo
     - SoftwareSerial
+    
 
 3. **Upload the Code**:
     - Open the Arduino IDE.
@@ -72,11 +73,6 @@ An intelligent irrigation system using ESP8266 and Firebase Realtime Database. T
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 Feel free to reach out for any queries or suggestions. Happy irrigating!
 
