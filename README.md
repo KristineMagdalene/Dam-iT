@@ -35,7 +35,7 @@ An intelligent irrigation system using ESP8266 and Firebase Realtime Database. T
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/IOT-Smart-Irrigation-System.git
+    git clone https://github.com/KristineMagdalene/Irrigation-System-IOT-based-using-NodeMCU-esp8266-and-firebase.git
     cd IOT-Smart-Irrigation-System
     ```
 
