@@ -1,6 +1,6 @@
 # IoT Smart Irrigation System
 
-An intelligent irrigation system using ESP8266 and Firebase Realtime Database. The system automates the opening and closing of an irrigation dam based on water levels and allows manual control through a mobile application. It also sends water level notifications and SMS alerts to designated phone numbers.
+An irrigation system using ESP8266 and Firebase Realtime Database. The system automates the opening and closing of an irrigation dam based on water levels and allows manual control through a mobile application. It also sends water level notifications and SMS alerts to designated phone numbers.
 
 ## Features
 
